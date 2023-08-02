@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chessGame.iml" filepath="$PROJECT_DIR$/chessGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercicioFiles_220/exercicioFiles_220.iml" filepath="$PROJECT_DIR$/../exercicioFiles_220/exercicioFiles_220.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fileAndBufferedReaders_215/fileAndBufferedReaders_215.iml" filepath="$PROJECT_DIR$/../fileAndBufferedReaders_215/fileAndBufferedReaders_215.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fileAndBufferedWriters/fileAndBufferedWriters.iml" filepath="$PROJECT_DIR$/../fileAndBufferedWriters/fileAndBufferedWriters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fileManaging_214/fileManaging_214.iml" filepath="$PROJECT_DIR$/../fileManaging_214/fileManaging_214.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newProject/newProject.iml" filepath="$PROJECT_DIR$/../newProject/newProject.iml" />
+    </modules>
+  </component>
+</project>
